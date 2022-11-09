@@ -29,7 +29,7 @@ sudo cronjob -e
 TROUBLESHOOTING
 ---------------
 Well this is kinda straight forward. Please see ntfy.sh examples for more info
-<a href="ntfy.sh" title="ntfy">ntfy</a>
+<a href="http://ntfy.sh" title="ntfy">ntfy</a>
 
 FAQ
 ---

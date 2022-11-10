@@ -10,10 +10,15 @@ CONTENTS OF THIS FILE
 
 INTRODUCTION
 ------------
-Simple ntfy example
+Simple ntfy examples
 
 ***
+If you like the result please support the original author. The project is free of use and is currently supported by donations.
 
+Server GitHub: https://github.com/binwiederhier/ntfy
+
+
+Simple ntfy examples
 1. **agent.sh** is basically the main script that launches the others twice (cronjob can only do each minute, so we recheck after 30s)
 
 2. *CPUload.sh* average load of the server
@@ -34,7 +39,11 @@ Simple ntfy example
 
 REQUIREMENTS
 ------------
-brain
+-Docs: https://ntfy.sh/docs/publish/
+
+-Android app: https://play.google.com/store/apps/details?id=io.heckel.ntfy
+
+-brain
 
 INSTALLATION
 ------------

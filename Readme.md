@@ -13,20 +13,20 @@ INTRODUCTION
 Simple ntfy example
 
 
-agent.sh is basically the main script that launche the others twice (cronjob can only do each minute, so we recheck after 30s)
+**agent.sh** is basically the main script that launche the others twice (cronjob can only do each minute, so we recheck after 30s)
 
-CPUload.sh average load of the server
+*CPUload.sh* average load of the server
 
-Disks.sh check the percentage remaining on the main root drive
+*Disks.sh* check the percentage remaining on the main root drive
 
-Docker.sh reports how many containers are currently running with a configurable treshhold 
+*Docker.sh* reports how many containers are currently running with a configurable treshhold 
 
-Flood.sh is monitoring for the container "transmission-express_transmission-openvpn" as an example and reports when running
+*Flood.sh* is monitoring for the container "transmission-express_transmission-openvpn" as an example and reports when running
 
-Jelly.sh reports the Health status of the Jellyfin server (this example running on localhost)
+*Jelly.sh* reports the Health status of the Jellyfin server (this example running on localhost)
 
-Process.sh reports the command of the most CPU Hungry running PID on the machine
-Used-RAM.sh basically the same as above, for RAM
+*Process.sh* reports the command of the most CPU Hungry running PID on the machine
+*Used-RAM.sh* basically the same as above, for RAM
 
 
 REQUIREMENTS

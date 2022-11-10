@@ -14,7 +14,7 @@ Simple ntfy example
 
 ***
 
-1. **agent.sh** is basically the main script that launche the others twice (cronjob can only do each minute, so we recheck after 30s)
+1. **agent.sh** is basically the main script that launches the others twice (cronjob can only do each minute, so we recheck after 30s)
 
 2. *CPUload.sh* average load of the server
 

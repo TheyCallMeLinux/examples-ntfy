@@ -30,6 +30,7 @@ Simple ntfy example
 
 8. *Used-RAM.sh* basically the same as above, for RAM
 
+9. *ntfy.conf* is where the configurable values can be edited
 
 REQUIREMENTS
 ------------

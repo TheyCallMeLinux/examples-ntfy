@@ -15,7 +15,7 @@ Simple ntfy example
 
 agent.sh is basically the main script that launche the others twice (cronjob can only do each minute, so we recheck after 30s)
 
-CPUload.sh Disks.sh average load of the server
+CPUload.sh average load of the server
 
 Disks.sh check the percentage remaining on the main root drive
 
